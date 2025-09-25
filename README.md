@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a **researcher, entrepreneur, and artist** at 
 - **Technical**: Scientific computing, software development, AI systems
 - **Creative**: Electronic music composition, data sonification, biofeedback integration
 
-🎵 **Fun Fact**: I integrate scientific concepts into my music compositions through my record label, [HYPERWAVES](#).
+🎵 **Fun Fact**: I integrate scientific concepts into my music compositions through my record label, [HYPERVANSE](#).
 
 ---
 
