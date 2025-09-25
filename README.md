@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **researcher, entrepreneur, and artist** at 
 ## 🌟 About Me
 
 - **PhD in Physics**: University of Lisbon (2007–2013)
-- **Current Role**: Visiting Professor at Federal University of Alagoas (2016–present)
+- **Current Role**: Solo Researcher and vounteer at HYPERVANSE LTDA
 - **Research Focus**: Nonlinear optics, quantum computing, soliton dynamics
 
 🧠 I specialize in:
@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm a **researcher, entrepreneur, and artist** at 
 - **[Hypervanse LTDA](#)** (Founded 2019, Maceió, Brazil)
   - Focus: Quantum computing, biogenetics, AI ethics
   - Key Innovation: The **CAUS-X programming language**
-- **[HyperVerse Digital](#)** 
+- **[Hypervanse Digital](#)** 
   - Applies nonlinear dynamics to software development
   - Develops AI fairness metrics based on **Noether's theorem**
-- **[HYPERWAVES Record Label](#)** 
+- **[HYPERVANSE Record Label](#)** 
   - Creates experimental electronic music
   - Fuses science and art in musical compositions
 
